@@ -1,0 +1,18 @@
+{
+  "name": "honey-os",
+  "version": "1.0.0",
+  "description": "A desktop application using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.6"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}
